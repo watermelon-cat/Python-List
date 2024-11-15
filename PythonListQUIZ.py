@@ -1,4 +1,4 @@
-#1, make list and print it
+#make list and print it
 zoo = ["monkey", "elephant", "lion", "tiger", "giraffe"]
 print(zoo)
 
